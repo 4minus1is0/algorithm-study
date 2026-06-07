@@ -20,8 +20,9 @@
 ---
 
 ### 투 포인터
-| 문제 이름                                                                                                                          | 재풀이 여부 | 성공 여부 |
-|--------------------------------------------------------------------------------------------------------------------------------|--------|-------|
-| [Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)               | -      | -     |
-| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            | -      | -     |
+| 문제 이름                                                                                                                         | 재풀이 여부 | 성공 여부 |
+|-------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)              | -      | -     |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                           | -      | -     |
 | [String Compression](https://leetcode.com/problems/string-compression/description/?envType=problem-list-v2&envId=two-pointers) | -      | -     |
+| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/?envType=problem-list-v2&envId=two-pointers)  | -      | -     |
