@@ -33,4 +33,4 @@
 | 문제 이름                                                                         | 재풀이 여부 | 성공 여부 |
 |-------------------------------------------------------------------------------|--------|-------|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | -      | -     |
-| [Sort List]()       | -      | -     |
+| [Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=sorting)       | -      | -     |
