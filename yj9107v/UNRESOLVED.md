@@ -35,3 +35,4 @@
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | -      | -     |
 | [Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=sorting)       | -      | -     |
 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)       | -      | -     |
+| [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/)       | -      | -     |
