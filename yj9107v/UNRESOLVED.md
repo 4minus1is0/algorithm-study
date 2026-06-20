@@ -30,7 +30,10 @@
 ---
 
 ### 정렬
-| 문제 이름                                                                         | 재풀이 여부 | 성공 여부 |
-|-------------------------------------------------------------------------------|--------|-------|
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | -      | -     |
-| [Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=sorting)       | -      | -     |
+| 문제 이름                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                            | -      | -     |
+| [Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=sorting)                                                  | -      | -     |
+| [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)                                                                                | -      | -     |
+| [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                                          | -      | -     |
+| PQ 추가 사용 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/?envType=problem-list-v2&envId=sorting) | - | - |
