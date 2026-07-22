@@ -37,3 +37,10 @@
 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)                                                                                | -      | -     |
 | [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                                          | -      | -     |
 | PQ 추가 사용 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/?envType=problem-list-v2&envId=sorting) | - | - |
+
+---
+
+### 그리디
+| 문제 이름                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Gas Station](https://leetcode.com/problems/gas-station/description/)                                                                            | -      | -     |
