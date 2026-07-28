@@ -10,6 +10,15 @@
 
 ---
 
+### 이진 트리
+| 문제 이름                                                                                                                                 | 재풀이 여부 | 성공 여부 |
+|---------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/?envType=problem-list-v2&envId=binary-tree) | -      | -     |
+| [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=depth-first-search)               | -      | -     |
+
+
+---
+
 ### dp
 | 문제 이름 | 재풀이 여부 | 성공 여부 |
 | ------- |--------|-------|
@@ -44,3 +53,6 @@
 | 문제 이름                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                                                            | -      | -     |
+| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                                                            | -      | -     |
+
+---
