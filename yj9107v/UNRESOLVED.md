@@ -29,6 +29,15 @@
 
 ---
 
+### 재귀
+| 문제 이름                                                                                                                              | 재풀이 여부 | 성공 여부 |
+|------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion) | -      | -     |
+| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                | -      | -     |
+
+
+---
+
 ### 투 포인터
 | 문제 이름                                                                                                                         | 재풀이 여부 | 성공 여부 |
 |-------------------------------------------------------------------------------------------------------------------------------|--------|-------|
@@ -55,5 +64,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                                                            | -      | -     |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                                                            | -      | -     |
+| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)                                                                            | -      | -     |
 
 ---
