@@ -11,11 +11,12 @@
 
 ---
 
-### 이진 트리
-| 문제 이름                                                                                                                                 | 재풀이 여부 | 성공 여부 |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+### 이진 트리 (이진 트리 탐색 포함)
+| 문제 이름                                                                                                                                | 재풀이 여부 | 성공 여부 |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/?envType=problem-list-v2&envId=binary-tree) | -      | -     |
-| [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=depth-first-search)               | -      | -     |
+| [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=depth-first-search)                     | -      | -     |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) `follow up 실패`             | -      | -     |
 
 
 ---
@@ -26,6 +27,14 @@
 | [Integer Break](https://leetcode.com/problems/integer-break/description/?envType=problem-list-v2&envId=dynamic-programming) | -      | -     |
 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/?envType=problem-list-v2&envId=dynamic-programming) | -      | -     |
 
+
+---
+
+### 재귀
+| 문제 이름                                                                                                                              | 재풀이 여부 | 성공 여부 |
+|------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion) | -      | -     |
+| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                | -      | -     |
 
 ---
 
@@ -55,5 +64,11 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                                                            | -      | -     |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                                                            | -      | -     |
+| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)                                                                            | -      | -     |
 
 ---
+
+### 구현
+| 문제 이름                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)                                                                            | -      | -     |
