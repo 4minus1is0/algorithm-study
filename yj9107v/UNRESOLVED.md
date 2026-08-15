@@ -11,11 +11,12 @@
 
 ---
 
-### 이진 트리
-| 문제 이름                                                                                                                                 | 재풀이 여부 | 성공 여부 |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+### 이진 트리 (이진 트리 탐색 포함)
+| 문제 이름                                                                                                                                | 재풀이 여부 | 성공 여부 |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/?envType=problem-list-v2&envId=binary-tree) | -      | -     |
-| [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=depth-first-search)               | -      | -     |
+| [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=depth-first-search)                     | -      | -     |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) `follow up 실패`             | -      | -     |
 
 
 ---
@@ -34,7 +35,6 @@
 |------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion) | -      | -     |
 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                | -      | -     |
-
 
 ---
 
@@ -67,3 +67,8 @@
 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)                                                                            | -      | -     |
 
 ---
+
+### 구현
+| 문제 이름                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)                                                                            | -      | -     |
