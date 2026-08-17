@@ -34,17 +34,12 @@ public:
                     if (!isIn(y_, x_, n, m) || grid[y_][x_] == WALL) continue;
 
                     char cell = grid[y_][x_];
-                    string nextKeys = keys;
-
-                    if (islower(cell) && nextKeys.find(cell) == string::npos) {
-                        nextKeys.push_back(cell);
-                    }
-
-                    if (isupper(cell) && nextKeys.find(cell - 'A' + 'a') == string::npos) continue;
-                    if (visited[y_][x_].find(nextKeys) != visited[y_][x_].end()) continue;
+                    if (islower(cell) && keys.find(cell) == string::npos) keys.push_back(cell);
+                    if (isupper(cell) && keys.find(cell - 'A' + 'a') == string::npos) continue;
+                    if (visited[y_][x_].find(keys) != visited[y_][x_].end()) continue;
                     
-                    visited[y_][x_].insert(nextKeys);
-                    pq.push({{y_, x_}, nextKeys});
+                    visited[y_][x_].insert(keys);
+                    pq.push({{y_, x_}, keys});
                 }
             }
             depth++;
