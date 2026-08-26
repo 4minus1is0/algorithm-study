@@ -31,12 +31,13 @@
 
 ---
 
-### 재귀
-| 문제 이름                                                                                                                               | 재풀이 여부 | 성공 여부 |
-|-------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion) | -      | -     |
-| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                 | -      | -     |
-| [Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=recursion)                                                       | -      | -     |
+### 재귀 & 백트래킹
+| 문제 이름                                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion)                                      | -      | -     |
+| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                                                      | -      | -     |
+| [Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=recursion)                                                                      | -      | -     |
+| [Letter Combinations of a Phone Number, 백트래킹](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=hash-table) | -      | -     |
 
 ---
 
