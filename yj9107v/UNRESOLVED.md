@@ -8,6 +8,7 @@
 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                               | -      | -     |
 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)                                            | -      | -     |
 | [Find the Safest Path in a Grid, 이분탐색](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)                  | -      | -     |
+| [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)                                                      | -      | -     |
 
 ---
 
@@ -30,21 +31,25 @@
 
 ---
 
-### 재귀
-| 문제 이름                                                                                                                              | 재풀이 여부 | 성공 여부 |
-|------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion) | -      | -     |
-| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                | -      | -     |
+### 재귀 & 백트래킹
+| 문제 이름                                                                                                                                                                    | 재풀이 여부 | 성공 여부 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=recursion)                                      | -      | -     |
+| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)                                                                                      | -      | -     |
+| [Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=recursion)                                                                      | -      | -     |
+| [Letter Combinations of a Phone Number, 백트래킹](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=hash-table) | -      | -     |
 
 ---
 
-### 투 포인터
-| 문제 이름                                                                                                                         | 재풀이 여부 | 성공 여부 |
-|-------------------------------------------------------------------------------------------------------------------------------|--------|-------|
-| [Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)              | -      | -     |
-| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                           | -      | -     |
+### 투 포인터 & 슬라이딩 윈도우
+| 문제 이름                                                                                                                          | 재풀이 여부 | 성공 여부 |
+|--------------------------------------------------------------------------------------------------------------------------------|--------|-------|
+| [Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=problem-list-v2&envId=two-pointers)               | -      | -     |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            | -      | -     |
 | [String Compression](https://leetcode.com/problems/string-compression/description/?envType=problem-list-v2&envId=two-pointers) | -      | -     |
-| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/?envType=problem-list-v2&envId=two-pointers)  | -      | -     |
+| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/?envType=problem-list-v2&envId=two-pointers)       | -      | -     |
+| [Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=two-pointers)               | -      | -     |
+| [Minimum Size Subarray Sum, 슬라이딩](https://leetcode.com/problems/minimum-size-subarray-sum/)                                    | -      | -     |
 
 ---
 
